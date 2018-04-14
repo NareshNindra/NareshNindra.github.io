@@ -4,7 +4,7 @@ title:      "Intelligence"
 subtitle:   "How We Build Intelligence"
 date:       2016-08-17 12:00:00
 author:     "Naresh Nindra"
-header-img: "img/intelligence.jpg"
+header-img: "img/home-bg.jpg"
 ---
 
 
